@@ -1,0 +1,7 @@
+pandas
+numpy
+maxminddb
+user_agents
+crawlerdetect
+matplotlib
+scikit-learn
