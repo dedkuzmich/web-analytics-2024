@@ -1,0 +1,3 @@
+pandas
+pytumblr
+bs4
